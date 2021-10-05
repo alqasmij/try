@@ -5,7 +5,7 @@ import 'categoriesPage.dart';
 import 'discoverypage.dart';
 import 'contactUsPage.dart';
 import 'allPostsPage.dart';
-import 'package:citylolo01/tools//toolsUtilities.dart';
+import 'package:citylolo/tools//toolsUtilities.dart';
 
 class StarterPage extends StatefulWidget {
   @override

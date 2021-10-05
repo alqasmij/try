@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:citylolo01/tools//toolsUtilities.dart';
+import 'package:citylolo/tools/toolsUtilities.dart';
 
 class AboutUs extends StatefulWidget {
   @override

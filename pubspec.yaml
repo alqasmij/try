@@ -1,6 +1,5 @@
-name: citylolo01
-description: A new Flutter project.
-
+name: citylolo
+description: city lolo app
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -45,6 +44,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icons/icon.png"
+
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
@@ -64,8 +68,26 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/categories/1.png
+    - assets/categories/2.png
+    - assets/categories/3.png
+    - assets/categories/4.png
+    - assets/categories/5.png
+    - assets/categories/6.png
+    - assets/categories/7.png
+    - assets/categories/8.png
+    - assets/categories/9.png
+    - assets/categories/10.png
+    - assets/categories/11.png
+    - assets/categories/12.png
+    - assets/categories/13.png
+    - assets/categories/14.png
+    - assets/categories/15.png
+    - assets/categories/16.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -79,8 +101,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
+  fonts:
+    - family: tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Medium.ttf
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf

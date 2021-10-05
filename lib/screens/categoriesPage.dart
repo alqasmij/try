@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'singleCategoryPage.dart';
-import 'package:citylolo01/tools//toolsUtilities.dart';
+import 'package:citylolo/tools//toolsUtilities.dart';
 
 class CategoriesPage extends StatefulWidget {
   @override

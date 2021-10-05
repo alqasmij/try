@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:citylolo01/main.dart';
+import 'package:citylolo/main.dart';
 import 'starterPage.dart';
-import 'package:citylolo01/tools/onBoardingModel.dart';
-import 'package:citylolo01/tools//toolsUtilities.dart';
+import 'package:citylolo/tools/onBoardingModel.dart';
+import 'package:citylolo/tools//toolsUtilities.dart';
 
 
 
